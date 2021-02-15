@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dde.api", "dde.api\dde.api.csproj", "{D2A94565-B85D-4CD1-B762-A327E6BEC968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dde.dataaccess", "dde.dataaccess\dde.dataaccess.csproj", "{3C4C921C-2687-4A03-8EC6-4B9263F48529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A94565-B85D-4CD1-B762-A327E6BEC968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A94565-B85D-4CD1-B762-A327E6BEC968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A94565-B85D-4CD1-B762-A327E6BEC968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A94565-B85D-4CD1-B762-A327E6BEC968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4C921C-2687-4A03-8EC6-4B9263F48529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4C921C-2687-4A03-8EC6-4B9263F48529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4C921C-2687-4A03-8EC6-4B9263F48529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4C921C-2687-4A03-8EC6-4B9263F48529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE2E910-77F1-44EB-8126-9F4B921154B5}
+	EndGlobalSection
+EndGlobal
